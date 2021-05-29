@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "repl_python3_Izumi-Bot-v20-Beta"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+replit = "^3.1.0"
+discord = "^1.0.1"
+flask = "^2.0.1"
+"nekos.py" = "^1.0.3"
+prsaw = "^0.3.1"
+pytz = "^2021.1"
+jikanpy = "^4.3.2"
+
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

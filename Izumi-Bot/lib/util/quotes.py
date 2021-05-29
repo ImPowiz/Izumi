@@ -1,0 +1,1 @@
+myquotes = ["Ima head out -Powiz", "haha you found quote command! -Powiz", "Please add quotes by using .aq! -Powiz"]
