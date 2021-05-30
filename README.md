@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://izumi-bot.webflow.io/"><img src="https://i.imgur.com/HrfmEI8.png" alt="Izumi"</a>
+  <a href="https://izumi-bot.webflow.io/"><img src="https://i.imgur.com/C2BPlRQ.png" alt="Izumi"</a>
   <br>
   Izumi Discord Bot
   <br>
